@@ -22,8 +22,8 @@ This Salt formula provides a configuration that accomplishes the specified tasks
 To apply this formula to your minions, follow these steps:
 
 ```bash
-$ git clone https://gihtub.com/<repo>
-$ cd <repo>
+$ git clone https://github.com/KamiKaramazov/kartaca-wordpress-salt-formula
+$ cd kartaca-wordpress-salt-formula
 
 $ cp -r files /srv/salt/
 $ cp kartaca-wordpress.sls /srv/salt/kartaca-wordpress.sls
