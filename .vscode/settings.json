@@ -1,8 +1,27 @@
 {
     "cSpell.words": [
+        "daymonth",
+        "dnsutils",
+        "endfor",
+        "gpgcheck",
+        "gpgkey",
         "homepath",
+        "humanname",
+        "keyout",
         "keyrings",
         "libvirtd",
-        "SALTSTACK"
+        "mysqldump",
+        "mysqlpassword",
+        "newkey",
+        "NOPASSWD",
+        "oscodename",
+        "pkgrepo",
+        "rootpassword",
+        "SALTSTACK",
+        "sysstat",
+        "tcptraceroute",
+        "uroot",
+        "wordpresspassword",
+        "zxvf"
     ]
 }
